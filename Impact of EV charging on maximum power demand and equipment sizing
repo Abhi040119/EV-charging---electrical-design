@@ -1,1 +1,9 @@
-
+Characteristics	Charging mode
+Mode 1 & 2	Mode 3
+Equipment for circuit sizing	Standard socket outlet	3.7kW
+single phase	7kW
+single phase	11kW
+three phases	22kW
+three phases
+Maximum current to consider
+@230 / 400Vac	16A P+N	16A P+N	32A P+N	16A 3P+N	32A 3P+N
